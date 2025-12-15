@@ -32,10 +32,10 @@ except Exception as e:
 # ========== SIDEBAR INFO ==========
 st.sidebar.title("ℹ️ Información del Sistema")
 st.sidebar.markdown("""
-**Proyecto de Tesis**  
-Análisis de Calidad Cervecera con Big Data y Machine Learning
+**Proyecto de Big Data**  
+Análisis de Calidad Cervecera 
 
-**Autora:** Pamela  
+**Autores:** Pamela Veloso - Sebastián Saravia 
 **Institución:** INACAP  
 **Año:** 2025
 
@@ -259,9 +259,9 @@ with tab3:
     st.header("📖 Acerca del Proyecto")
     
     st.markdown("""
-    ### Proyecto de Tesis
+    ### Proyecto de Big Data
     
-    **Título:** Análisis de Calidad Cervecera con Big Data y Machine Learning
+    **Título:** Análisis de Calidad Cervecera
     
     **Objetivo:** Desarrollar modelos predictivos para:
     1. Predecir el contenido alcohólico (ABV) de cervezas artesanales
@@ -303,9 +303,9 @@ with tab3:
     - F1-Score: 1.00
     - Algoritmo: Random Forest Classifier
     
-    ### Autora
+    ### Autores
     
-    **Nombre:** Pamela  
+    **Nombre:** Pamela Veloso - Sebastián Saravia 
     **Institución:** INACAP  
     **Carrera:** Ingeniería en Informática  
     **Año:** 2025
