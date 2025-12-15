@@ -302,8 +302,7 @@ with tab3:
     
     ### Autores
     
-    **Nombre:** Pamela Veloso - Sebastián Saravia 
-    
+    **Nombre:** Pamela Veloso y Sebastián Saravia 
     **Institución:** INACAP  
     **Carrera:** Ingeniería en Informática  
     **Año:** 2025
