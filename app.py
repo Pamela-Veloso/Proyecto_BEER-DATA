@@ -35,9 +35,6 @@ st.sidebar.markdown("""
 **Proyecto de Big Data**  
 Análisis de Calidad Cervecera 
 
-**Autores:** Pamela Veloso - Sebastián Saravia 
-**Institución:** INACAP  
-**Año:** 2025
 
 ---
 
